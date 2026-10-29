@@ -1,0 +1,9 @@
+﻿.venv/
+fluxo_env/
+__pycache__/
+*.py[cod]
+mic_test.wav
+echosoul_input.wav
+*.onnx
+onnxruntime-win-x64-1.20.1/
+.env
